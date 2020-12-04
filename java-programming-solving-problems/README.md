@@ -1,4 +1,6 @@
-# Week 1 Programming Exercise: Finding a Gene and Web Links
+# Week 1 
+
+### Programming Exercise: Finding a Gene and Web Links
 A PDF of the programming exercise can be found in the Resources tab.
 
 For files related to this assignment, visit the DukeLearnToProgram Project Resources page for this course: http://www.dukelearntoprogram.com/course2/files.php. Also linked in the Resources tab.
